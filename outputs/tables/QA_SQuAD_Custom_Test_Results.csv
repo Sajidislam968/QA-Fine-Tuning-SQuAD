@@ -1,0 +1,3 @@
+Test,Question,Expected Answer,Predicted Answer,Exact String Match
+Test 1: Theory of Relativity,Who developed the theory of relativity?,Albert Einstein,Albert Einstein,True
+Test 2: Discoveries of Marie Curie,Which two elements did Marie Curie discover with Pierre Curie?,polonium and radium,polonium and radium,True

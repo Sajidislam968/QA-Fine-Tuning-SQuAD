@@ -1,0 +1,28 @@
+{
+  "model_name": "bert-base-uncased",
+  "dataset": "SQuAD v1.1",
+  "training_epochs": 2,
+  "learning_rate": 3e-05,
+  "training_batch_size": 16,
+  "max_sequence_length": 384,
+  "document_stride": 128,
+  "training_time_minutes": 109.7,
+  "validation_exact_match": 80.1703,
+  "validation_f1": 87.7453,
+  "custom_tests": [
+    {
+      "Test": "Test 1: Theory of Relativity",
+      "Question": "Who developed the theory of relativity?",
+      "Expected Answer": "Albert Einstein",
+      "Predicted Answer": "Albert Einstein",
+      "Exact String Match": true
+    },
+    {
+      "Test": "Test 2: Discoveries of Marie Curie",
+      "Question": "Which two elements did Marie Curie discover with Pierre Curie?",
+      "Expected Answer": "polonium and radium",
+      "Predicted Answer": "polonium and radium",
+      "Exact String Match": true
+    }
+  ]
+}

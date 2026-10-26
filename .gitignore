@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local environment variables / credentials
+.env
+.env.*
+!.env.example
+
+# Hugging Face / training caches and checkpoints
+.cache/
+.cache-huggingface/
+hf_cache/
+qa_squad_checkpoints/
+qa_squad_finetuned/
+checkpoint-*/
+
+# Large model weights - do not push BERT checkpoints to GitHub
+*.safetensors
+pytorch_model.bin
+model.safetensors
+
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db
