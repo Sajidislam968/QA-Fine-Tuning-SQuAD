@@ -98,9 +98,8 @@ This is an **extractive** QA model: it selects a text span from the provided con
 
 ## Reflection
 
-Add the final 5–6 sentence reflection from the notebook here after reviewing it and making sure it accurately describes your experiment.
+<img width="1677" height="454" alt="Screenshot From 2026-10-27 03-33-16" src="https://github.com/user-attachments/assets/df9104af-d4d1-4a29-9a73-666303ec22bc" />
 
-`PASTE_YOUR_VERIFIED_REFLECTION_HERE`
 
 ## Repository Structure
 
