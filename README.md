@@ -58,7 +58,7 @@ The dataset is loaded at runtime from Hugging Face. The dataset itself is not in
 | Trainer API | Hugging Face `Trainer` |
 | Evaluation metrics | Exact Match (EM), token-level F1 |
 
-The effective batch size and runtime depend on the Colab hardware. The notebook should be run successfully before publishing its final results.
+The effective batch size and runtime depend on the kaggle hardware.
 
 ## Results
 
