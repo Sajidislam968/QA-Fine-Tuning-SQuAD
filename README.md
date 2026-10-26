@@ -1,6 +1,6 @@
 # Fine-Tuning BERT for Extractive Question Answering on SQuAD v1.1
 
-> **Module 12 Assignment** · Natural Language Processing · Hugging Face Transformers
+> Natural Language Processing · Hugging Face Transformers
 
 This project fine-tunes a pre-trained `bert-base-uncased` model for **extractive question answering** using the Stanford Question Answering Dataset (SQuAD v1.1). Given a question and a context passage, the model predicts the start and end token positions of an answer within that passage.
 
