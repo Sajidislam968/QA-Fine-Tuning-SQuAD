@@ -133,9 +133,4 @@ QA_FineTuning_SQuAD_Sajid_Islam/
 
 - Rajpurkar, P. et al. (2016). [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://aclanthology.org/D16-1264/). EMNLP.
 - [Hugging Face Transformers: Question Answering](https://huggingface.co/docs/transformers/tasks/question_answering)
-- [Hugging Face SQuAD dataset card](https://huggingface.co/datasets/squad)
-- [Hugging Face Evaluate — SQuAD metric](https://huggingface.co/spaces/evaluate-metric/squad)
 
----
-
-*Educational project for Module 12: Fine-Tuning Transformers for Question Answering.*
